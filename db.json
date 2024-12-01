@@ -1,0 +1,64 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "florean",
+      "email": "florean@gmail.com",
+      "phoneNumber": "082138976789",
+      "semester": "5",
+      "ipk": "3.74",
+      "beasiswa": "Akademik",
+      "status": "Sudah Diverifikasi"
+    },
+    {
+      "id": "1732871597822",
+      "name": "manda",
+      "email": "manda@gmail.com",
+      "phoneNumber": "083456786735",
+      "semester": "8",
+      "ipk": "3.14",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1732873577998",
+      "name": "olen",
+      "email": "olen@gmail.com",
+      "phoneNumber": "086357865466",
+      "semester": "6",
+      "ipk": "3.08",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1732821998",
+      "name": "chika",
+      "email": "chika@gmail.com",
+      "phoneNumber": "083567897546",
+      "semester": "6",
+      "ipk": "3.08",
+      "beasiswa": "Tahfidz",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1732874485956",
+      "name": "rindu",
+      "email": "rindu@gmail.com",
+      "phoneNumber": "082786893689",
+      "semester": "6",
+      "ipk": "3.82",
+      "beasiswa": "Tahfidz",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": 1733023698980,
+      "name": "Aisyah",
+      "email": "aisyah@gmail.com",
+      "phoneNumber": "082137689477",
+      "semester": "6",
+      "ipk": "3.44",
+      "beasiswa": "Tahfidz",
+      "status": "Belum Diverifikasi"
+    }
+  ]
+}
